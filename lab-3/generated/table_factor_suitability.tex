@@ -1,0 +1,15 @@
+{%
+\small
+\setlength{\tabcolsep}{3.0pt}
+\renewcommand{\arraystretch}{1.15}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{L{4.2cm}C{1.7cm}C{2.2cm}C{1.6cm}L{5.2cm}}
+\toprule
+Блок анализа & KMO & Bartlett $\chi^2$ & p-value & Вывод \\
+\midrule
+Оценки сервисов & 0,519 & 8,95 & 0,537 & Пригодность низкая: Bartlett p-value = 0,537 не подтверждает значимые связи; факторная карта используется только как разведочная визуализация. \\
+Характеристики экспертов & 0,535 & 337,74 & < 0,001 & Пригодность также пограничная по KMO, но тест Бартлетта подтверждает наличие связей между признаками. \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+}
