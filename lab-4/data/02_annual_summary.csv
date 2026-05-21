@@ -1,0 +1,7 @@
+year,months_available,total_arrivals_million,average_monthly_arrivals_million,max_month,max_value_million,min_month,min_value_million,recovery_vs_2019_percent,note
+2019,12,362.671,30.223,Mar,31.985,Sep,27.127,100.0,full year
+2020,12,59.114,4.926,Jan,28.512,Nov,0.57,16.299621419964648,full year
+2021,12,26.475,2.206,Dec,3.84,Jan,1.516,7.300004687443991,full year
+2022,12,93.334,7.778,Dec,16.0,Jan,2.453,25.735170443735505,full year
+2023,12,237.237,19.77,Dec,25.723,Jan,14.57,65.41383237148821,full year
+2024,3,76.333,25.444,Mar,26.1,Jan,24.543,81.88215354579879,Jan-Mar only; compared with Jan-Mar 2019

@@ -1,0 +1,13 @@
+metric,value
+period_used_for_model,2019-2023 full monthly observations
+n_observations,60
+linear_intercept_million,17.279620903954815
+linear_slope_million_per_month,-0.1409542372881357
+linear_trend_formula,arrivals_million = 17.2796 + (-0.1410) * t
+r_squared,0.046006066957123726
+rmse_million,11.115875886390105
+mape_percent,362.0735932812425
+iqr_low_bound_million,-32.117250000000006
+iqr_high_bound_million,59.45675000000001
+decomposition_type,additive: observed = trend-cycle + seasonal + residual
+data_limitation,"monthly values are a transparent digitization from an official UN Tourism chart, not a raw dashboard export"
