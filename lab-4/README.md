@@ -5,7 +5,7 @@
 ## Содержание
 1. [Отчет](report.tex) в формате LaTeX
 2. Данные: каталог [data](data/)
-3. Исполняемый скрипт: [src/analysis.py](src/analysis.py)
+3. Исполняемый скрипт: [analysis](src/analysis.ipynb)
 4. Готовые диаграммы: каталог [assets](assets/)
 5. LaTeX-таблицы: каталог [generated](generated/)
 6. CSV-таблицы: каталог [tables](tables/)
