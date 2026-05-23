@@ -1,0 +1,16 @@
+\begin{table}[h!]
+\centering
+\caption{Сравнение методов сглаживания}
+\label{tab:smooth}
+\begin{tabular}{lcc}
+\toprule
+Метод & MAE, млн & RMSE, млн \\
+\midrule
+MA(3) & 1.029 & 1.228 \\
+MA(6) & 1.780 & 2.147 \\
+MA(12) центр. & 1.643 & 2.002 \\
+Exp(α=0.2) & 1.422 & 1.807 \\
+Exp(α=0.6) & 0.592 & 0.718 \\
+\bottomrule
+\end{tabular}
+\end{table}
